@@ -21,4 +21,4 @@ dir 配置插件目录
 npm install  
 
 执行  
-npm index.js
+node index.js
